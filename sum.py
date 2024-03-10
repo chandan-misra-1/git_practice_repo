@@ -6,3 +6,4 @@ print(x)
 x=45
 y=93
 print(skew(x))
+QWERTYUIOP
